@@ -1,1 +1,1 @@
-# Hier sollen alle Programmdatein hinterlegt werden
+# This folder contains source files for different usecases
