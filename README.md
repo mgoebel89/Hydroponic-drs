@@ -1,3 +1,6 @@
-# Hydroponic-drs
+# Introduction
 
-Aufbau des Workshops für Makeathon 2025 Grand Canaria
+This repository contains instructions
+
+[Bill of materials](BoM.md) \
+[Build instructions](Build_guide.md)
