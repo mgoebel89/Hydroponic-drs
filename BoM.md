@@ -3,18 +3,18 @@
 ## Tables of content
 
 
-| Electronic components | Requirements |
+| Electronic Components | Requirements |
 |---------------------|---|
 |ESP 32 Microcontroller|ESPRESSIF C6-Mini-1|
 |5V Waterpump|USB-A, 1-3W|
 |PH-Sensor|E-201-C, 3.3V|
 |EC Sensor|TDS, 3.3V|
-| **Electric components**| |
+| **Electric Components**| |
 |Powersupply 5V|minimum 5W, USB-A|
 |USB-C Cable (Male-Female)|-|
 |Breakaway board header| Female, 2.54mm, 15 Pins per Side|
-| **Biological Compeonents** | |
-|Seedlings|Any plant, take its size into account|
+| **Biological Components** | |
+|Seedlings|Only leafy plants, take its size into account|
 |Granules|Clay granules for potted plants|
 |Fertilizer|-|
 | **Tools** ||
