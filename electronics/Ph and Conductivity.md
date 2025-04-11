@@ -9,4 +9,4 @@ Conductivity measurements indicate total amounts of salts in the water such as:
 - Phosphorus
 - Potassium
 ### Methods to adjust PH and EC
-Most simple method is to dillute the solution concentration by replacing or adding more water
+Most simple method is to dillute the nutrient solution concentration by replacing or adding more water
