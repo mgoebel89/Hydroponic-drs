@@ -4,13 +4,15 @@
 
 	1.2 Drill two holes as well into the lid of the container. *Make sure that the holes align!* ![drill_template_2](drill_template_2.jpg)
    
-	1.3 Cut a groove into the bottom container. *Make it deep enough in order for the lid to close without any problem. Furthermore, do not make it too wide because the cable must fit snugly.* ![cut_groove](Pasted\ image\ 20250411112933.png).
+	1.3 Cut a groove into the bottom container. *Make it deep enough in order for the lid to close without any problem. Furthermore, do not make it too wide because the cable must fit snugly.*
 
-2. Assembly
+   ![cut_groove](Pasted_image_20250411112933.png).
+
+3. Assembly
    
 	2.1 Siphon. 
 	2.1.1 Insert the two drains into the holes. *The **O-ring seals** must be on the drains.*
-	![[Pasted image 20250411170430.png]]
+   ![name](Pasted image 20250411170430.png)
 
 	2.1.2. Connect the siphons with the drains. *It is important to put **O-ring seals** onto these sides of the drains as well.* 
 	![[Pasted image 20250411170815.png]]
