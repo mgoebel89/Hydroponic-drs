@@ -1,1 +1,1 @@
-# hier werden alle konstruktionspläne oder Platinendetails hinterlegt.
+# hier werden alle konstruktionspläne oder Platinendetails hinterlegt

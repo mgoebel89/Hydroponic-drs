@@ -1,1 +1,1 @@
-# Hier werden alle Elektronikpläne und zeichnungen hinterlegt.
+# Hier werden alle Elektronikpläne und zeichnungen hinterlegt

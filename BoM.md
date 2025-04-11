@@ -2,7 +2,6 @@
 
 ## Tables of content
 
-
 | Electronic Components | Requirements |
 |---------------------|---|
 |ESP 32 Microcontroller|ESPRESSIF C6-Mini-1|
