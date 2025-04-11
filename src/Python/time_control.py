@@ -13,7 +13,7 @@ time_off = 5 # in increments of counter period
 time_on = 10 # in increments of counter period
 
 timer_count = 0 # used for time keeping
-seqence = 0 # used to keep up execution order
+sequence = 0 # used to keep up execution order
 state = False # used to track automation state
 
 # Set to True to get debug Prints
@@ -35,8 +35,20 @@ btn_g = Pin(PIN_BUTTON_GREEN, Pin.IN, Pin.PULL_DOWN)
 btn_r = Pin(PIN_BUTTON_RED, Pin.IN, Pin.PULL_DOWN)
 
 def print_debug(t):
-    global pump, led_g, led_r, btn_g, btn_r
-    print(f"==================\nPump: {pump.value()}\nLED_G: {led_g.value()}\nLED_R: {led_r.value()}\nBTN_G: {btn_g.value()}\nBTN_R: {btn_r.value()}\nPeriod count: {timer_count}\nSequence: {seqence}\nState: {state}")
+    global pump, led_g, led_r, btn_g, btn_r, timer_count, sequence, state
+    debug_info = {
+        "Pump": pump.value(),
+        "LED_G": led_g.value(),
+        "LED_R": led_r.value(),
+        "BTN_G": btn_g.value(),
+        "BTN_R": btn_r.value(),
+        "Period count": timer_count,
+        "Sequence": sequence,
+        "State": state
+    }
+    print("==================")
+    for key, value in debug_info.items():
+        print(f"{key}: {value}")
 
 if debug:
     debug_timer = Timer(2)
@@ -52,27 +64,27 @@ tim = Timer(0)
 
 def callback_button_green(pin):
     # Called when green button is pressed
-    global state, pump, tim, debug, seqence, timer_count
+    global state, pump, tim, debug, sequence, timer_count
     if debug:
         print(f"Green, State: {state}")
     if state:
         pass
     else:
         pump.on()
-        seqence = 1
+        sequence = 1
         timer_count = 0
         state = True
     tim.init(period=counter_period, mode=Timer.PERIODIC, callback=tf) # Enable timer
 
 def callback_button_red(pin):
     # Called when red button is pressed
-    global state, pump, tim, debug, seqence, timer_count
+    global state, pump, tim, debug, sequence, timer_count
     if debug:
         print(f"Red, State: {state}")
-    tim.deinit() # Disable timerx
+    tim.deinit() # Disable timer
     if state:
         pump.off()
-        seqence = 0
+        sequence = 0
         timer_count = 0
         state = False
     else:
@@ -87,11 +99,11 @@ while True:
     led_g.value(state)
     led_r.value(not state)
 
-    if state and seqence == 0 and timer_count >= time_off:
+    if state and sequence == 0 and timer_count >= time_off:
         pump.on()
-        seqence = 1
+        sequence = 1
         timer_count = 0
-    if state and seqence == 1 and timer_count >= time_on:
+    if state and sequence == 1 and timer_count >= time_on:
         pump.off()
-        seqence = 0
+        sequence = 0
         timer_count = 0
