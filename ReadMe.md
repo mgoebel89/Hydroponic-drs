@@ -8,4 +8,4 @@ This repository contains instructions.
 - 3D printer
 
 [Bill of materials](BoM.md) \
-[Build instructions](Build_guide.md)
+[Build instructions](construction/Instructions.md)
