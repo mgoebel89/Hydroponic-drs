@@ -15,5 +15,17 @@ This repository contains instructions.
 - Basic coding knowledge
 - 3D printer
 
-[Bill of materials](BoM.md) \
+## Quicklinks
+
+[Bill of materials](BoM.md)
+  + List of required components and parts to get started
+
 [Build instructions](construction/Instructions.md)
+  + Instrunctions with images 
+
+[3D-Printed Parts](parts) 
+  + Required 3D-printed parts to build the hydroponic system
+
+[Electronics](electronics)
+  + PH-Probe Instructions
+  + Additional knowledge on pH-values and conductivity
