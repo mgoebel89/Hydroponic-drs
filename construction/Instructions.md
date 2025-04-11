@@ -11,16 +11,16 @@
 3. Assembly
    
 	2.1 Siphon. 
-	2.1.1 Insert the two drains into the holes. *The **O-ring seals** must be on the drains.*
+	2.1.1 Insert the two house-adapters into the holes. *The **O-ring seals** must be on the house-adapters.*
    ![siphon_assembly_1](Pasted_image_20250411170430.png)
 
-	2.1.2. Connect the siphons with the drains. *It is important to put **O-ring seals** onto these sides of the drains as well.* 
+	2.1.2. Connect the siphons with the house-adapters. *It is important to put **O-ring seals** onto these sides of the house-adapters as well.* 
 	![siphon_assembly_2](Pasted_image_20250411170815.png)
 
-	2.1.3 If the drains are correctly connected to siphon, tighten them. Screw the drains into the syphon with a wrench, or with the included 3D-designed tool. **The drains must be screwed in tightly in order to make the seals watertight.**
+	2.1.3 If the house-adapters are correctly connected to siphon, tighten them. Screw the house-adapters into the syphon with a wrench, or with the included 3D-designed tool. **The house-adapters must be screwed in tightly in order to make the seals watertight.**
 	
 	2.2 Installing components
-	2.2.1 Attch a 10-15 cm (or longer based on your container) long tube onto the drain of the siphon, which belongs to the **longer pipe**.  The siphon has two pipes, it can be found in the qubical part of the syphon. The shorter is responsible for drainage, therefore it is crucial to get this step right.
+	2.2.1 Attch a 10-15 cm (or longer based on your container) long tube onto the house-adapter of the siphon, which belongs to the **longer pipe**.  The siphon has two pipes, it can be found in the qubical part of the syphon. The shorter is responsible for drainage, therefore it is crucial to get this step right.
    ![plastic_tube_to_siphon](Pasted_image_20250411171932.png)
    
 	2.2.2 Place the USB Waterpump into the bottom container below the syphon.
@@ -33,7 +33,7 @@
 
 	2.3. Connecting parts
    
-	2.3.1. Feed the plastic tube and the drains of the siphon through the holes in the lid.
+	2.3.1. Feed the plastic tube and the house-adapters of the siphon through the holes in the lid.
    
 	![siphon_lid](Pasted_image_20250411172429.png)
 
