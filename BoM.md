@@ -25,5 +25,8 @@
 |Tinsolder|-|
 |O-Ringe|Amount: 4 per system, Outer diameter 20mm, Inner diameter 15mm|
 | **Exterior** | |
-|Containers|Not translucent, as dark as possible|
-|Silicon Hose|Inner diameter 8mm|
+| **3D Printing**| 3D-Printing filament|
+|Containers | Not translucent, as dark as possible|
+|Silicon Hose | Inner diameter 8mm|
+| **Interior** | |
+|Netpot|-|
