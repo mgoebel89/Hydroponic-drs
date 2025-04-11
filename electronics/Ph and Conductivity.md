@@ -12,8 +12,8 @@ Our readings are limited to ppm measurements therefore conversion rates from ppm
 
 The following conversions are rough approximations:
 
-1 ppm ≈ 1 mg/L
-1 ppm ≈ 1.5625 µS/cm (640 scale) 
+- 1 ppm ≈ 1 mg/L
+- 1 ppm ≈ 1.5625 µS/cm (640 scale) 
 
 ### Plant growth stages
 
