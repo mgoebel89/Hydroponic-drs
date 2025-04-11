@@ -39,4 +39,4 @@
 
 	2.3.2. Attach the tube of the siphon with the water pump. *This step may require multiple attempts, as based on the length and sturdiness of the tube, the waterpump can get dislodged when the upper container is placed on the lower one.* ![tube_waterpump_connection](Pasted_image_20250411172639.png)
    
-	2.3.3. Put the siphon cap onto the shorter pipe of the syphon. ![final_assembly](IMG_20250411_093028_1.jpg)
+	2.3.3. Put the siphon cap onto the shorter pipe of the syphon. ![final_assembly](IMG_20250411_093028.jpg)
