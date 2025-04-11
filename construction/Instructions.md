@@ -4,7 +4,7 @@
 
 	1.2 Drill two holes as well into the lid of the container. *Make sure that the holes align!* ![drill_template_2](drill_template_2.jpg)
    
-	1.3 Cut a groove into the bottom container. *Make it deep enough in order for the lid to close without any problem. Furthermore, do not make it too wide because the cable must fit snugly.* ![cut_groove](Pasted image 20250411112933.png).
+	1.3 Cut a groove into the bottom container. *Make it deep enough in order for the lid to close without any problem. Furthermore, do not make it too wide because the cable must fit snugly.* ![cut_groove](Pasted\ image\ 20250411112933.png).
 
 2. Assembly
    
