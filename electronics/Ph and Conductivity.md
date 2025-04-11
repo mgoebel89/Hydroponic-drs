@@ -1,4 +1,4 @@
-# PH and conductivity in hydroponics	
+# PH and Conductivity in hydroponic systems	
 ### PH Values
 Ph values for leafy plants range between 5 (typically 5.5) and 6 
 ### Electrical Conductivity
