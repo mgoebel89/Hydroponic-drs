@@ -8,9 +8,9 @@ PIN_BUTTON_GREEN = 19
 PIN_BUTTON_RED = 18
 
 # Set timings
-counter_period = 1000
-time_off = 5
-time_on = 10
+counter_period = 1000 # in ms
+time_off = 5 # in increments of counter period
+time_on = 10 # in increments of counter period
 
 timer_count = 0 # used for time keeping
 seqence = 0 # used to keep up execution order
