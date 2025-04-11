@@ -2,7 +2,7 @@
 
 ### PH Values
 
-Ph values for leafy plants range between 5 (typically 5.5) and 7.
+PH-values for leafy plants range between 5 (typically 5.5) and 7.
 
 ### Electrical Conductivity
 
@@ -30,4 +30,4 @@ Conductivity measurements indicate total amounts of salts in the water such as:
 
 ### Methods to adjust PH and EC
 
-Most simple method is to dillute the nutrient solution concentration by replacing or adding more water.
+Most simple method is to dillute the nutrient solution by replacing or adding more water.
